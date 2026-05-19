@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "okySIxklAQ7lHASMjYRWRtzjLdqr+lccx47JeWRuYFsFm9o14gAFXDc/+vb0eEJa0McP3oc62qTpLWqfNoKUlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinic\\Downloads\\Escola\\Exercicios\\Aviao\\Aviao\\Aviao\\Aviao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
